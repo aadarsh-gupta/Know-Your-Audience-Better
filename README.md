@@ -1,5 +1,5 @@
 # Know Your Audience Better
-<h3> Tailor strategies by unleasing the power of localized trends and senti`ments </h3>
+<h3> Tailor strategies by unleasing the power of localized trends and sentiments </h3>
 <br>
 <h5>Can we help a politician tailor their speech for the next campaign visit to Minnesota? </h5>
 
