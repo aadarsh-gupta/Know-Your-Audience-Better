@@ -11,7 +11,7 @@ Here, I present an approach to utilize the trending topics (searches made on Goo
 **1. Hot Searches on Google Trends**  
   For a geography on interest, extract the top trending topics through the searches made on Google. This can be fetched by using the Google Trends API (pyTrends) by using a search keyword of interest. The API allows to filter for the Geography as well as the time span you want to search for.
 
-<img src = "/images/topic-pop.png">    <img src = "/images/topic-senti.png">
+<img src = "/images/topic-pop.png setup:zoom=400">    <img src = "/images/topic-senti.png">
 
 
 **2. Extract Local Sentiments on Popular political topics**  
