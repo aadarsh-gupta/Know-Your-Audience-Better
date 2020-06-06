@@ -34,10 +34,9 @@ Through the above analysis, any one can understand the voter's sentiments and vi
   
   
 <br>
-
-<h3> Artchitecture at a Glance </h3>
-
-
+<h1></h1>
+  
+<h3> Architecture at a Glance </h3>
 <br>
 The whole architecture is part of the GCP framework, starting from the combinaton of Google Trends and  Twitter APIs using Google Cloud's AI Notebooks (which serve as an interface for running Python notebooks). Google Cloud Storage is then used to store the final datasets with sentiments. These can be visualized using a Data Studio visual or can be linked to the Tableau desktop or server service using the API connection to Google account. The below image shows the same visually.  
   <br>
@@ -48,13 +47,13 @@ The whole architecture is part of the GCP framework, starting from the combinato
   
   This analysis is transferable for all the businesses and use cases, where knowing your audience's (dynamic) preference and customers is crucial for extracting the best gains. Below are some of the use cases where this can be applied directly:   
    
-<img src = "/images/usecase-retail.png" style="zoom:35%"> <h6 align = right>Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  </h6>
+<img src = "/images/usecase-retail.png" style="zoom:35%"> <h6>Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  </h6>
   
   <br><br><br>
-<img src = "/images/usecase-music.png" style="zoom:35%"> <h6 align = right> Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  </h6>
+<img src = "/images/usecase-music.png" style="zoom:35%"> <h6> Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  </h6>
   
   <br><br><br>
-<img src = "/images/usecase-rest.png" style="zoom:35%"> <h6 align = right> Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  </h6>
+<img src = "/images/usecase-rest.png" style="zoom:35%"> <h6> Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  </h6>
   
 <br>
 <h1> </h1>
