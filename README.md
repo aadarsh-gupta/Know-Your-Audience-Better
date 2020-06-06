@@ -19,8 +19,7 @@ For a geography on interest, extract the top trending topics through the searche
    
 Obtain tweets containing the keywords for these trending searches and extra voter sentiment. This makes use of the Twitter API connenction established using any local or cloud Python installation. A common way to extract tweets from Twitter is using the tweepy library. Here, this API gives access to select the location as well as the time span of tweets made. In the output, we can also extract the person's original location, tweet location, other post and profile attributes, like likes, comments and RTs for better understanding of the tweet's reach and performance. Finally, the user ID obtained from the tweet let's us understand whether the user is popular on Twitter and the popularity could be influential in getting the tweet's performance.
     
-<img src = "/images/senti.png">    
-    
+<img src = "/images/senti.png">     
 <h1> </h1>  
   
 **3. Dashboarding the collected tweets/sentiments**  
@@ -62,9 +61,9 @@ The whole architecture is part of the GCP framework, starting from the combinato
   
 ##### Contributors:   
 
-Aditya Agrawal   <agraw205@umn.edu>  
-Anirudh Srikant  <srika028@umn.edu>  
-Brady Engelke    <engel746@umn.edu>  
-Karthik Ravishankar <ravis038@umn.edu>  
-Sudhir Vinjamuri <vinja024@umn.edu>  
+Aditya Agrawal | <agraw205@umn.edu>  
+Anirudh Srikant | <srika028@umn.edu>  
+Brady Engelke  |  <engel746@umn.edu>  
+Karthik Ravishankar | <ravis038@umn.edu>  
+Sudhir Vinjamuri | <vinja024@umn.edu>  
   
