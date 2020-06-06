@@ -39,6 +39,8 @@ Through the above analysis, any one can understand the voter's sentiments and vi
 <h3> Architecture at a Glance </h3>
 <br>
 The whole architecture is part of the GCP framework, starting from the combinaton of Google Trends and  Twitter APIs using Google Cloud's AI Notebooks (which serve as an interface for running Python notebooks). Google Cloud Storage is then used to store the final datasets with sentiments. These can be visualized using a Data Studio visual or can be linked to the Tableau desktop or server service using the API connection to Google account. The below image shows the same visually.  
+
+
   <br>
 <img src = "/images/architecture.png">
 <br>
