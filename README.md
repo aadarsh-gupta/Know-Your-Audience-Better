@@ -43,16 +43,13 @@ Through the above analysis, any one can understand the voter's sentiments and vi
   
 <h2>How does it help other businesses?</h2>
   
-<img src = "/images/usecase-retail.png" style="zoom:35%">  
-Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  
+<img src = "/images/usecase-retail.png" style="zoom:35%"> Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  
   
   <br>
-<img src = "/images/usecase-music.png" style="zoom:35%">  
-Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  
+<img src = "/images/usecase-music.png" style="zoom:35%"> Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  
   
   <br>
-<img src = "/images/usecase-rest.png" style="zoom:35%">  
-Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  
+<img src = "/images/usecase-rest.png" style="zoom:35%"> Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  
   
 <br>
 
