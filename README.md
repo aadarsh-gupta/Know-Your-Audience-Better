@@ -1,10 +1,9 @@
-# Know Your Audience Better
+<h1 align = center> Know Your Audience Better </h1>
 <h3> Tailor strategies by unleasing the power of localized trends and sentiments </h3>
-<br>
-<h5>Can we help a politician tailor their speech for the next campaign visit to Minnesota? </h5>
+  
+<h4>Can we help a politician tailor their speech for the next campaign visit to Minnesota? </h5>
 
-
-Here, I present an approach to utilize the trending topics (searches made on Google, for example) for customizing and tailoring a campaign speech, such that it targets the right audience and creates the desired impact.  
+Here, I present an approach to utilize the trending topics (searches made on Google, for example) for customizing and tailoring a campaign speech, such that it targets the right audience and creates the desired impact. 
 
 <h3> <u>Steps </u> </h3>
     
@@ -44,11 +43,14 @@ Through the above analysis, any one can understand the voter's sentiments and vi
   
 <h2>How does it help other businesses?</h2>
   
-<img src = "/images/usecase-retail.png" style="zoom:35%">  Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  
-
-<img src = "/images/usecase-music.png" style="zoom:35%">  Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  
-
-<img src = "/images/usecase-rest.png" style="zoom:35%">  Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  
+<img src = "/images/usecase-retail.png" style="zoom:35%">  
+Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  
+  
+<img src = "/images/usecase-music.png" style="zoom:35%">  
+Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  
+  
+<img src = "/images/usecase-rest.png" style="zoom:35%">  
+Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  
   
   
 <br>
