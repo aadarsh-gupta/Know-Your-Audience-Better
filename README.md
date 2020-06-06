@@ -1,5 +1,5 @@
 <h1 align = center> Know Your Audience Better </h1>
-<h3> Tailor strategies by unleasing the power of localized trends and sentiments </h3>
+<h3 align = center> Tailor strategies by unleasing the power of localized trends and sentiments </h3>
   
 <h4>Can we help a politician tailor their speech for the next campaign visit to Minnesota? </h5>
 
@@ -43,13 +43,13 @@ Through the above analysis, any one can understand the voter's sentiments and vi
   
 <h2>How does it help other businesses?</h2>
   
-<img src = "/images/usecase-retail.png" style="zoom:35%"> <h6 align = right>Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  
+<img src = "/images/usecase-retail.png" style="zoom:35%"> <h6 align = right>Retail chains can better plan and manage inventory of stores based on locally trending products and customers’ sentiments to minimize inventory loss.  </h6>
   
   <br><br><br>
-<img src = "/images/usecase-music.png" style="zoom:35%"> <h6 align = right> Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  
+<img src = "/images/usecase-music.png" style="zoom:35%"> <h6 align = right> Bands can narrow down on potential locations for concert that resonate with their genre of music to maximize footfall.  </h6>
   
   <br><br><br>
-<img src = "/images/usecase-rest.png" style="zoom:35%"> <h6 align = right> Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  
+<img src = "/images/usecase-rest.png" style="zoom:35%"> <h6 align = right> Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  </h6>
   
 <br>
 
