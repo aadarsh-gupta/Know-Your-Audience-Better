@@ -14,18 +14,21 @@ For a geography on interest, extract the top trending topics through the searche
 <img src = "/images/topic-pop.png" style="zoom:15%">  <img src = "/images/topic-senti.png" style="zoom:35%">
 
 <h1> </h1> 
+  
 **2. Extract Local Sentiments on Popular political topics**  
    
 Obtain tweets containing the keywords for these trending searches and extra voter sentiment. This makes use of the Twitter API connenction established using any local or cloud Python installation. A common way to extract tweets from Twitter is using the tweepy library. Here, this API gives access to select the location as well as the time span of tweets made. In the output, we can also extract the person's original location, tweet location, other post and profile attributes, like likes, comments and RTs for better understanding of the tweet's reach and performance. Finally, the user ID obtained from the tweet let's us understand whether the user is popular on Twitter and the popularity could be influential in getting the tweet's performance.
     
 <img src = "/images/senti.png">    
     
-<h1> </h1>     
+<h1> </h1>  
+  
 **3. Dashboarding the collected tweets/sentiments**  
   
 I then look at the extracted data to understand some patterns and hidden trends in the data. This can be achieved in two ways: Using the Data Studio present in the GCP suite, Using a tableau dashboard connected to the data for live refresh. Although I created the pipeline in the GCP environment, I make use of Tableau to visualize the results, simply because it allows to more variety in visuals and more comfort in designing viwes. The above screenshots represent both Tableau and Data Studio views.  
 
 <h1> </h1> 
+  
 **4. Customization for Maximizing the Opportunity**  
   
 Through the above analysis, any one can understand the voter's sentiments and views on specific topics and tune the speech as well as campaign to better suit a target geography.
@@ -55,7 +58,8 @@ The whole architecture is part of the GCP framework, starting from the combinato
 <img src = "/images/usecase-rest.png" style="zoom:35%"> <h6 align = right> Fast food restaurant chains can identify popular products at a localized level and customize menus for stores to match customer preferences and gauge user sentiments to further improve their offerings.  </h6>
   
 <br>
-
+<h1> </h1>
+  
 ##### Contributors:   
 
 Aditya Agrawal   <agraw205@umn.edu>  
